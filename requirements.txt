@@ -1,0 +1,7 @@
+z3-solver>=4.13.0
+google-generativeai>=0.8.3
+openai>=1.12.0
+python-dotenv>=1.0.1
+jupyter>=1.0.0
+pandas>=2.2.0
+requests>=2.31.0
