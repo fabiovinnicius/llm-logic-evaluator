@@ -1,0 +1,1427 @@
+[
+  {
+    "id": 1,
+    "caso": 1,
+    "descricao": "Satisfatível — cenário base",
+    "esperado": "SAT",
+    "banco": [
+      {
+        "id": "q1",
+        "dificuldade": "facil",
+        "topicos": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "q2",
+        "dificuldade": "facil",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q3",
+        "dificuldade": "facil",
+        "topicos": [
+          4
+        ]
+      },
+      {
+        "id": "q4",
+        "dificuldade": "medio",
+        "topicos": [
+          1
+        ]
+      },
+      {
+        "id": "q5",
+        "dificuldade": "medio",
+        "topicos": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": "q6",
+        "dificuldade": "medio",
+        "topicos": [
+          4
+        ]
+      },
+      {
+        "id": "q7",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          4
+        ]
+      },
+      {
+        "id": "q8",
+        "dificuldade": "dificil",
+        "topicos": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ],
+    "resposta_z3": "SAT",
+    "questoes_z3": [
+      "q1",
+      "q2",
+      "q4",
+      "q6",
+      "q7",
+      "q8"
+    ],
+    "resposta_gemini": null
+  },
+  {
+    "id": 2,
+    "caso": 1,
+    "descricao": "Satisfatível — cenário base",
+    "esperado": "SAT",
+    "banco": [
+      {
+        "id": "q1",
+        "dificuldade": "facil",
+        "topicos": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "q2",
+        "dificuldade": "facil",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q3",
+        "dificuldade": "facil",
+        "topicos": [
+          4
+        ]
+      },
+      {
+        "id": "q4",
+        "dificuldade": "medio",
+        "topicos": [
+          1
+        ]
+      },
+      {
+        "id": "q5",
+        "dificuldade": "medio",
+        "topicos": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": "q6",
+        "dificuldade": "medio",
+        "topicos": [
+          4
+        ]
+      },
+      {
+        "id": "q7",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          4
+        ]
+      },
+      {
+        "id": "q8",
+        "dificuldade": "dificil",
+        "topicos": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ],
+    "resposta_z3": "SAT",
+    "questoes_z3": [
+      "q1",
+      "q3",
+      "q4",
+      "q6",
+      "q7",
+      "q8"
+    ],
+    "resposta_gemini": null
+  },
+  {
+    "id": 3,
+    "caso": 1,
+    "descricao": "Satisfatível — cenário base",
+    "esperado": "SAT",
+    "banco": [
+      {
+        "id": "q1",
+        "dificuldade": "facil",
+        "topicos": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "q2",
+        "dificuldade": "facil",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q3",
+        "dificuldade": "facil",
+        "topicos": [
+          4
+        ]
+      },
+      {
+        "id": "q4",
+        "dificuldade": "medio",
+        "topicos": [
+          1
+        ]
+      },
+      {
+        "id": "q5",
+        "dificuldade": "medio",
+        "topicos": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": "q6",
+        "dificuldade": "medio",
+        "topicos": [
+          4
+        ]
+      },
+      {
+        "id": "q7",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          4
+        ]
+      },
+      {
+        "id": "q8",
+        "dificuldade": "dificil",
+        "topicos": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ],
+    "resposta_z3": "SAT",
+    "questoes_z3": [
+      "q1",
+      "q3",
+      "q4",
+      "q5",
+      "q6",
+      "q8"
+    ],
+    "resposta_gemini": null
+  },
+  {
+    "id": 4,
+    "caso": 1,
+    "descricao": "Satisfatível — cenário base",
+    "esperado": "SAT",
+    "banco": [
+      {
+        "id": "q1",
+        "dificuldade": "facil",
+        "topicos": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "q2",
+        "dificuldade": "facil",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q3",
+        "dificuldade": "facil",
+        "topicos": [
+          4
+        ]
+      },
+      {
+        "id": "q4",
+        "dificuldade": "medio",
+        "topicos": [
+          1
+        ]
+      },
+      {
+        "id": "q5",
+        "dificuldade": "medio",
+        "topicos": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": "q6",
+        "dificuldade": "medio",
+        "topicos": [
+          4
+        ]
+      },
+      {
+        "id": "q7",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          4
+        ]
+      },
+      {
+        "id": "q8",
+        "dificuldade": "dificil",
+        "topicos": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ],
+    "resposta_z3": "SAT",
+    "questoes_z3": [
+      "q1",
+      "q3",
+      "q5",
+      "q6",
+      "q7",
+      "q8"
+    ],
+    "resposta_gemini": null
+  },
+  {
+    "id": 5,
+    "caso": 2,
+    "descricao": "Insatisfatível — falta questões médias (temos 2, precisamos de 3)",
+    "esperado": "UNSAT",
+    "banco": [
+      {
+        "id": "q1",
+        "dificuldade": "facil",
+        "topicos": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "q2",
+        "dificuldade": "facil",
+        "topicos": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": "q3",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          3
+        ]
+      },
+      {
+        "id": "q4",
+        "dificuldade": "medio",
+        "topicos": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": "q5",
+        "dificuldade": "dificil",
+        "topicos": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ],
+    "resposta_z3": "UNSAT",
+    "questoes_z3": null,
+    "resposta_gemini": null
+  },
+  {
+    "id": 6,
+    "caso": 2,
+    "descricao": "Insatisfatível — falta questões médias (temos 2, precisamos de 3)",
+    "esperado": "UNSAT",
+    "banco": [
+      {
+        "id": "q1",
+        "dificuldade": "facil",
+        "topicos": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "q2",
+        "dificuldade": "facil",
+        "topicos": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": "q3",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          3
+        ]
+      },
+      {
+        "id": "q4",
+        "dificuldade": "medio",
+        "topicos": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": "q5",
+        "dificuldade": "dificil",
+        "topicos": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ],
+    "resposta_z3": "UNSAT",
+    "questoes_z3": null,
+    "resposta_gemini": null
+  },
+  {
+    "id": 7,
+    "caso": 2,
+    "descricao": "Insatisfatível — falta questões médias (temos 2, precisamos de 3)",
+    "esperado": "UNSAT",
+    "banco": [
+      {
+        "id": "q1",
+        "dificuldade": "facil",
+        "topicos": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "q2",
+        "dificuldade": "facil",
+        "topicos": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": "q3",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          3
+        ]
+      },
+      {
+        "id": "q4",
+        "dificuldade": "medio",
+        "topicos": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": "q5",
+        "dificuldade": "dificil",
+        "topicos": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ],
+    "resposta_z3": "UNSAT",
+    "questoes_z3": null,
+    "resposta_gemini": null
+  },
+  {
+    "id": 8,
+    "caso": 3,
+    "descricao": "Insatisfatível — cotas OK mas nenhuma questão cobre T4",
+    "esperado": "UNSAT",
+    "banco": [
+      {
+        "id": "q1",
+        "dificuldade": "facil",
+        "topicos": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "q2",
+        "dificuldade": "facil",
+        "topicos": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": "q3",
+        "dificuldade": "medio",
+        "topicos": [
+          1
+        ]
+      },
+      {
+        "id": "q4",
+        "dificuldade": "medio",
+        "topicos": [
+          2
+        ]
+      },
+      {
+        "id": "q5",
+        "dificuldade": "medio",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q6",
+        "dificuldade": "dificil",
+        "topicos": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "resposta_z3": "UNSAT",
+    "questoes_z3": null,
+    "resposta_gemini": null
+  },
+  {
+    "id": 9,
+    "caso": 3,
+    "descricao": "Insatisfatível — cotas OK mas nenhuma questão cobre T4",
+    "esperado": "UNSAT",
+    "banco": [
+      {
+        "id": "q1",
+        "dificuldade": "facil",
+        "topicos": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "q2",
+        "dificuldade": "facil",
+        "topicos": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": "q3",
+        "dificuldade": "medio",
+        "topicos": [
+          1
+        ]
+      },
+      {
+        "id": "q4",
+        "dificuldade": "medio",
+        "topicos": [
+          2
+        ]
+      },
+      {
+        "id": "q5",
+        "dificuldade": "medio",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q6",
+        "dificuldade": "dificil",
+        "topicos": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "resposta_z3": "UNSAT",
+    "questoes_z3": null,
+    "resposta_gemini": null
+  },
+  {
+    "id": 10,
+    "caso": 3,
+    "descricao": "Insatisfatível — cotas OK mas nenhuma questão cobre T4",
+    "esperado": "UNSAT",
+    "banco": [
+      {
+        "id": "q1",
+        "dificuldade": "facil",
+        "topicos": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "q2",
+        "dificuldade": "facil",
+        "topicos": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": "q3",
+        "dificuldade": "medio",
+        "topicos": [
+          1
+        ]
+      },
+      {
+        "id": "q4",
+        "dificuldade": "medio",
+        "topicos": [
+          2
+        ]
+      },
+      {
+        "id": "q5",
+        "dificuldade": "medio",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q6",
+        "dificuldade": "dificil",
+        "topicos": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "resposta_z3": "UNSAT",
+    "questoes_z3": null,
+    "resposta_gemini": null
+  },
+  {
+    "id": 11,
+    "caso": 4,
+    "descricao": "Satisfatível — solução única, todas as 6 questões obrigatórias",
+    "esperado": "SAT",
+    "banco": [
+      {
+        "id": "q1",
+        "dificuldade": "facil",
+        "topicos": [
+          1
+        ]
+      },
+      {
+        "id": "q2",
+        "dificuldade": "facil",
+        "topicos": [
+          2
+        ]
+      },
+      {
+        "id": "q3",
+        "dificuldade": "medio",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q4",
+        "dificuldade": "medio",
+        "topicos": [
+          4
+        ]
+      },
+      {
+        "id": "q5",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          3
+        ]
+      },
+      {
+        "id": "q6",
+        "dificuldade": "dificil",
+        "topicos": [
+          2,
+          4
+        ]
+      }
+    ],
+    "resposta_z3": "SAT",
+    "questoes_z3": [
+      "q1",
+      "q2",
+      "q3",
+      "q4",
+      "q5",
+      "q6"
+    ],
+    "resposta_gemini": null
+  },
+  {
+    "id": 12,
+    "caso": 4,
+    "descricao": "Satisfatível — solução única, todas as 6 questões obrigatórias",
+    "esperado": "SAT",
+    "banco": [
+      {
+        "id": "q1",
+        "dificuldade": "facil",
+        "topicos": [
+          1
+        ]
+      },
+      {
+        "id": "q2",
+        "dificuldade": "facil",
+        "topicos": [
+          2
+        ]
+      },
+      {
+        "id": "q3",
+        "dificuldade": "medio",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q4",
+        "dificuldade": "medio",
+        "topicos": [
+          4
+        ]
+      },
+      {
+        "id": "q5",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          3
+        ]
+      },
+      {
+        "id": "q6",
+        "dificuldade": "dificil",
+        "topicos": [
+          2,
+          4
+        ]
+      }
+    ],
+    "resposta_z3": "SAT",
+    "questoes_z3": [
+      "q1",
+      "q2",
+      "q3",
+      "q4",
+      "q5",
+      "q6"
+    ],
+    "resposta_gemini": null
+  },
+  {
+    "id": 13,
+    "caso": 4,
+    "descricao": "Satisfatível — solução única, todas as 6 questões obrigatórias",
+    "esperado": "SAT",
+    "banco": [
+      {
+        "id": "q1",
+        "dificuldade": "facil",
+        "topicos": [
+          1
+        ]
+      },
+      {
+        "id": "q2",
+        "dificuldade": "facil",
+        "topicos": [
+          2
+        ]
+      },
+      {
+        "id": "q3",
+        "dificuldade": "medio",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q4",
+        "dificuldade": "medio",
+        "topicos": [
+          4
+        ]
+      },
+      {
+        "id": "q5",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          3
+        ]
+      },
+      {
+        "id": "q6",
+        "dificuldade": "dificil",
+        "topicos": [
+          2,
+          4
+        ]
+      }
+    ],
+    "resposta_z3": "SAT",
+    "questoes_z3": [
+      "q1",
+      "q2",
+      "q3",
+      "q4",
+      "q5",
+      "q6"
+    ],
+    "resposta_gemini": null
+  },
+  {
+    "id": 14,
+    "caso": 5,
+    "descricao": "Insatisfatível — conflito: T1 e T4 só cobertos por difíceis diferentes",
+    "esperado": "UNSAT",
+    "banco": [
+      {
+        "id": "q1",
+        "dificuldade": "facil",
+        "topicos": [
+          2
+        ]
+      },
+      {
+        "id": "q2",
+        "dificuldade": "facil",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q3",
+        "dificuldade": "medio",
+        "topicos": [
+          2
+        ]
+      },
+      {
+        "id": "q4",
+        "dificuldade": "medio",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q5",
+        "dificuldade": "medio",
+        "topicos": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": "q6",
+        "dificuldade": "dificil",
+        "topicos": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "q7",
+        "dificuldade": "dificil",
+        "topicos": [
+          3,
+          4
+        ]
+      }
+    ],
+    "resposta_z3": "UNSAT",
+    "questoes_z3": null,
+    "resposta_gemini": null
+  },
+  {
+    "id": 15,
+    "caso": 5,
+    "descricao": "Insatisfatível — conflito: T1 e T4 só cobertos por difíceis diferentes",
+    "esperado": "UNSAT",
+    "banco": [
+      {
+        "id": "q1",
+        "dificuldade": "facil",
+        "topicos": [
+          2
+        ]
+      },
+      {
+        "id": "q2",
+        "dificuldade": "facil",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q3",
+        "dificuldade": "medio",
+        "topicos": [
+          2
+        ]
+      },
+      {
+        "id": "q4",
+        "dificuldade": "medio",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q5",
+        "dificuldade": "medio",
+        "topicos": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": "q6",
+        "dificuldade": "dificil",
+        "topicos": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "q7",
+        "dificuldade": "dificil",
+        "topicos": [
+          3,
+          4
+        ]
+      }
+    ],
+    "resposta_z3": "UNSAT",
+    "questoes_z3": null,
+    "resposta_gemini": null
+  },
+  {
+    "id": 16,
+    "caso": 5,
+    "descricao": "Insatisfatível — conflito: T1 e T4 só cobertos por difíceis diferentes",
+    "esperado": "UNSAT",
+    "banco": [
+      {
+        "id": "q1",
+        "dificuldade": "facil",
+        "topicos": [
+          2
+        ]
+      },
+      {
+        "id": "q2",
+        "dificuldade": "facil",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q3",
+        "dificuldade": "medio",
+        "topicos": [
+          2
+        ]
+      },
+      {
+        "id": "q4",
+        "dificuldade": "medio",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q5",
+        "dificuldade": "medio",
+        "topicos": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": "q6",
+        "dificuldade": "dificil",
+        "topicos": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "q7",
+        "dificuldade": "dificil",
+        "topicos": [
+          3,
+          4
+        ]
+      }
+    ],
+    "resposta_z3": "UNSAT",
+    "questoes_z3": null,
+    "resposta_gemini": null
+  },
+  {
+    "id": 17,
+    "caso": 6,
+    "descricao": "Insatisfatível — falso positivo, contagens OK mas T2 descoberto",
+    "esperado": "UNSAT",
+    "banco": [
+      {
+        "id": "q1",
+        "dificuldade": "facil",
+        "topicos": [
+          1
+        ]
+      },
+      {
+        "id": "q2",
+        "dificuldade": "facil",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q3",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          3
+        ]
+      },
+      {
+        "id": "q4",
+        "dificuldade": "medio",
+        "topicos": [
+          4
+        ]
+      },
+      {
+        "id": "q5",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          4
+        ]
+      },
+      {
+        "id": "q6",
+        "dificuldade": "dificil",
+        "topicos": [
+          3,
+          4
+        ]
+      }
+    ],
+    "resposta_z3": "UNSAT",
+    "questoes_z3": null,
+    "resposta_gemini": null
+  },
+  {
+    "id": 18,
+    "caso": 6,
+    "descricao": "Insatisfatível — falso positivo, contagens OK mas T2 descoberto",
+    "esperado": "UNSAT",
+    "banco": [
+      {
+        "id": "q1",
+        "dificuldade": "facil",
+        "topicos": [
+          1
+        ]
+      },
+      {
+        "id": "q2",
+        "dificuldade": "facil",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q3",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          3
+        ]
+      },
+      {
+        "id": "q4",
+        "dificuldade": "medio",
+        "topicos": [
+          4
+        ]
+      },
+      {
+        "id": "q5",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          4
+        ]
+      },
+      {
+        "id": "q6",
+        "dificuldade": "dificil",
+        "topicos": [
+          3,
+          4
+        ]
+      }
+    ],
+    "resposta_z3": "UNSAT",
+    "questoes_z3": null,
+    "resposta_gemini": null
+  },
+  {
+    "id": 19,
+    "caso": 7,
+    "descricao": "Satisfatível — stress test com 16 questões e muito ruído",
+    "esperado": "SAT",
+    "banco": [
+      {
+        "id": "q1",
+        "dificuldade": "facil",
+        "topicos": [
+          1
+        ]
+      },
+      {
+        "id": "q2",
+        "dificuldade": "facil",
+        "topicos": [
+          1
+        ]
+      },
+      {
+        "id": "q3",
+        "dificuldade": "facil",
+        "topicos": [
+          2
+        ]
+      },
+      {
+        "id": "q4",
+        "dificuldade": "facil",
+        "topicos": [
+          2
+        ]
+      },
+      {
+        "id": "q5",
+        "dificuldade": "facil",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q6",
+        "dificuldade": "facil",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q7",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "q8",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "q9",
+        "dificuldade": "medio",
+        "topicos": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": "q10",
+        "dificuldade": "medio",
+        "topicos": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": "q11",
+        "dificuldade": "medio",
+        "topicos": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": "q12",
+        "dificuldade": "medio",
+        "topicos": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": "q13",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          4
+        ]
+      },
+      {
+        "id": "q14",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          4
+        ]
+      },
+      {
+        "id": "q15",
+        "dificuldade": "dificil",
+        "topicos": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "id": "q16",
+        "dificuldade": "dificil",
+        "topicos": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ],
+    "resposta_z3": "SAT",
+    "questoes_z3": [
+      "q1",
+      "q2",
+      "q7",
+      "q13",
+      "q14",
+      "q16"
+    ],
+    "resposta_gemini": null
+  },
+  {
+    "id": 20,
+    "caso": 7,
+    "descricao": "Satisfatível — stress test com 16 questões e muito ruído",
+    "esperado": "SAT",
+    "banco": [
+      {
+        "id": "q1",
+        "dificuldade": "facil",
+        "topicos": [
+          1
+        ]
+      },
+      {
+        "id": "q2",
+        "dificuldade": "facil",
+        "topicos": [
+          1
+        ]
+      },
+      {
+        "id": "q3",
+        "dificuldade": "facil",
+        "topicos": [
+          2
+        ]
+      },
+      {
+        "id": "q4",
+        "dificuldade": "facil",
+        "topicos": [
+          2
+        ]
+      },
+      {
+        "id": "q5",
+        "dificuldade": "facil",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q6",
+        "dificuldade": "facil",
+        "topicos": [
+          3
+        ]
+      },
+      {
+        "id": "q7",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "q8",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": "q9",
+        "dificuldade": "medio",
+        "topicos": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": "q10",
+        "dificuldade": "medio",
+        "topicos": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": "q11",
+        "dificuldade": "medio",
+        "topicos": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": "q12",
+        "dificuldade": "medio",
+        "topicos": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": "q13",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          4
+        ]
+      },
+      {
+        "id": "q14",
+        "dificuldade": "medio",
+        "topicos": [
+          1,
+          4
+        ]
+      },
+      {
+        "id": "q15",
+        "dificuldade": "dificil",
+        "topicos": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "id": "q16",
+        "dificuldade": "dificil",
+        "topicos": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ],
+    "resposta_z3": "SAT",
+    "questoes_z3": [
+      "q1",
+      "q2",
+      "q8",
+      "q13",
+      "q14",
+      "q15"
+    ],
+    "resposta_gemini": null
+  }
+]
