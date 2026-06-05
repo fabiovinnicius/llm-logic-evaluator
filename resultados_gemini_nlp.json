@@ -987,9 +987,9 @@
     ],
     "resposta_z3": "UNSAT",
     "questoes_z3": null,
-    "resposta_gemini": "UNSAT",
+    "resposta_gemini": "SAT",
     "prompt_enviado": "Você é um especialista em lógica. Responda APENAS com 'SAT' se for possível resolver o problema ou 'UNSAT' se for impossível.\n\nUma empresa quer elaborar uma prova de 6 questões seguindo estas regras exatas:\n- Pelo menos 1 questão de cada tópico (T1, T2, T3 e T4).\n- Exatamente 1 questão difícil.\n- Exatamente 2 questões fáceis.\n- Exatamente 3 questões médias.\n\nAqui está o banco de questões disponível:\n- q1: Dificuldade Facil, Tópicos: T2\n- q2: Dificuldade Facil, Tópicos: T3\n- q3: Dificuldade Medio, Tópicos: T2\n- q4: Dificuldade Medio, Tópicos: T3\n- q5: Dificuldade Medio, Tópicos: T2, T3\n- q6: Dificuldade Dificil, Tópicos: T1, T2\n- q7: Dificuldade Dificil, Tópicos: T3, T4\n\nÉ possível formar uma prova válida com esse banco de questões? Responda SAT ou UNSAT.",
-    "resposta_bruta_gemini": "UNSAT"
+    "resposta_bruta_gemini": "SAT"
   },
   {
     "id": 16,
@@ -1110,9 +1110,9 @@
     ],
     "resposta_z3": "UNSAT",
     "questoes_z3": null,
-    "resposta_gemini": "SAT",
+    "resposta_gemini": "UNSAT",
     "prompt_enviado": "Você é um especialista em lógica. Responda APENAS com 'SAT' se for possível resolver o problema ou 'UNSAT' se for impossível.\n\nUma empresa quer elaborar uma prova de 6 questões seguindo estas regras exatas:\n- Pelo menos 1 questão de cada tópico (T1, T2, T3 e T4).\n- Exatamente 1 questão difícil.\n- Exatamente 2 questões fáceis.\n- Exatamente 3 questões médias.\n\nAqui está o banco de questões disponível:\n- q1: Dificuldade Facil, Tópicos: T1\n- q2: Dificuldade Facil, Tópicos: T3\n- q3: Dificuldade Medio, Tópicos: T1, T3\n- q4: Dificuldade Medio, Tópicos: T4\n- q5: Dificuldade Medio, Tópicos: T1, T4\n- q6: Dificuldade Dificil, Tópicos: T3, T4\n\nÉ possível formar uma prova válida com esse banco de questões? Responda SAT ou UNSAT.",
-    "resposta_bruta_gemini": "SAT"
+    "resposta_bruta_gemini": "UNSAT"
   },
   {
     "id": 18,
@@ -1168,9 +1168,9 @@
     ],
     "resposta_z3": "UNSAT",
     "questoes_z3": null,
-    "resposta_gemini": "UNSAT",
+    "resposta_gemini": "SAT",
     "prompt_enviado": "Você é um especialista em lógica. Responda APENAS com 'SAT' se for possível resolver o problema ou 'UNSAT' se for impossível.\n\nUma empresa quer elaborar uma prova de 6 questões seguindo estas regras exatas:\n- Pelo menos 1 questão de cada tópico (T1, T2, T3 e T4).\n- Exatamente 1 questão difícil.\n- Exatamente 2 questões fáceis.\n- Exatamente 3 questões médias.\n\nAqui está o banco de questões disponível:\n- q1: Dificuldade Facil, Tópicos: T1\n- q2: Dificuldade Facil, Tópicos: T3\n- q3: Dificuldade Medio, Tópicos: T1, T3\n- q4: Dificuldade Medio, Tópicos: T4\n- q5: Dificuldade Medio, Tópicos: T1, T4\n- q6: Dificuldade Dificil, Tópicos: T3, T4\n\nÉ possível formar uma prova válida com esse banco de questões? Responda SAT ou UNSAT.",
-    "resposta_bruta_gemini": "UNSAT"
+    "resposta_bruta_gemini": "SAT"
   },
   {
     "id": 19,
