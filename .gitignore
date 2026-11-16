@@ -50,3 +50,5 @@ venv.bak/
 # Project specific overrides
 data/results/*
 !data/results/.gitkeep
+
+.ipynb_checkpoints/
